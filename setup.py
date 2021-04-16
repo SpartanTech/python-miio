@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name = 'python-miio-s7',
     packages = ['python-miio'],
-    version = '5.0.1',  # Ideally should be same as your GitHub release tag varsion
+    version = '5.0.2',  # Ideally should be same as your GitHub release tag varsion
     description = 'S7 Commit',
     author = '',
     author_email = '',
